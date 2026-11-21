@@ -1,4 +1,4 @@
-# Slay the Spire
+# Sumask
 
 Prototipe game kartu turn-based yang dibuat menggunakan Unity. Proyek ini berisi sistem kartu, musuh, hero, damage, shield, mana, dan giliran bertarung.
 
