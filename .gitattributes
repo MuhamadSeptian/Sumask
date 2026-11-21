@@ -1,0 +1,14 @@
+# Normalize text files while keeping Unity YAML files stable
+* text=auto
+
+*.cs text eol=crlf
+*.shader text eol=crlf
+*.cginc text eol=crlf
+*.hlsl text eol=crlf
+
+*.meta text eol=lf
+*.unity text eol=lf
+*.asset text eol=lf
+*.preset text eol=lf
+*.json text eol=lf
+*.md text eol=crlf

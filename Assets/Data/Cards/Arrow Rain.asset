@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a69f42e0b5563e8408d726d1e4ee6271, type: 3}
+  m_Name: Arrow Rain
+  m_EditorClassIdentifier: 
+  <Description>k__BackingField: Memberikan 5 Damage
+  <Mana>k__BackingField: 1
+  <Image>k__BackingField: {fileID: 21300000, guid: 67343ace324229f48a52a8a97d8e19cc, type: 3}
+  <ManualTargetEffect>k__BackingField: {fileID: 0}
+  <OtherEffects>k__BackingField:
+  - TargetMode: {fileID: 11400000, guid: 5b10e557accf42e4e95ae5867e6916da, type: 2}
+    Effect: {fileID: 11400000, guid: ebe9beef69ee7534ebaa8e54cfb70646, type: 2}
+  <AnimationSprites>k__BackingField:
+  - {fileID: 697903519611601823, guid: 37e619f859c01eb4ebb8213b2178032d, type: 3}
+  - {fileID: 2802956719511238275, guid: 37e619f859c01eb4ebb8213b2178032d, type: 3}
+  - {fileID: -7738446700108230869, guid: 37e619f859c01eb4ebb8213b2178032d, type: 3}
+  - {fileID: 7778327046428201454, guid: 37e619f859c01eb4ebb8213b2178032d, type: 3}
+  - {fileID: 3129043912428046238, guid: 37e619f859c01eb4ebb8213b2178032d, type: 3}
+  - {fileID: 7224712470375616915, guid: 37e619f859c01eb4ebb8213b2178032d, type: 3}
+  - {fileID: 3931885442526461513, guid: 37e619f859c01eb4ebb8213b2178032d, type: 3}
+  - {fileID: -2247974737913471743, guid: 37e619f859c01eb4ebb8213b2178032d, type: 3}
+  - {fileID: 9117285326002001000, guid: 37e619f859c01eb4ebb8213b2178032d, type: 3}
+  - {fileID: -2493662669795905066, guid: 37e619f859c01eb4ebb8213b2178032d, type: 3}
+  - {fileID: 4030187160755281649, guid: 37e619f859c01eb4ebb8213b2178032d, type: 3}
+  - {fileID: 5024935386563064544, guid: 37e619f859c01eb4ebb8213b2178032d, type: 3}
+  - {fileID: 315717848706190897, guid: 37e619f859c01eb4ebb8213b2178032d, type: 3}
+  - {fileID: -6696924952781175558, guid: 37e619f859c01eb4ebb8213b2178032d, type: 3}
+  - {fileID: 4569021706323362384, guid: 37e619f859c01eb4ebb8213b2178032d, type: 3}
+  - {fileID: 3565147411291998096, guid: 37e619f859c01eb4ebb8213b2178032d, type: 3}
+  - {fileID: 8214492701935860001, guid: 37e619f859c01eb4ebb8213b2178032d, type: 3}
+  - {fileID: -6711322341723292587, guid: 37e619f859c01eb4ebb8213b2178032d, type: 3}
+  - {fileID: 3996074539894477926, guid: 37e619f859c01eb4ebb8213b2178032d, type: 3}
+  - {fileID: -4835611433879346073, guid: 37e619f859c01eb4ebb8213b2178032d, type: 3}
+  - {fileID: 2670983631759432462, guid: 37e619f859c01eb4ebb8213b2178032d, type: 3}
+  - {fileID: -6636818672045311887, guid: 37e619f859c01eb4ebb8213b2178032d, type: 3}
+  - {fileID: 5419991168821112719, guid: 37e619f859c01eb4ebb8213b2178032d, type: 3}
+  - {fileID: -2140089915256909264, guid: 37e619f859c01eb4ebb8213b2178032d, type: 3}
+  - {fileID: -8210115263866440874, guid: 37e619f859c01eb4ebb8213b2178032d, type: 3}
+  - {fileID: -4324811739453127657, guid: 37e619f859c01eb4ebb8213b2178032d, type: 3}
+  <AnimationSpeed>k__BackingField: 0.1

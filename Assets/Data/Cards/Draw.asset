@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a69f42e0b5563e8408d726d1e4ee6271, type: 3}
+  m_Name: Draw
+  m_EditorClassIdentifier: 
+  <Description>k__BackingField: ' Draw 2 Cards.'
+  <Mana>k__BackingField: 1
+  <Image>k__BackingField: {fileID: 21300000, guid: 67343ace324229f48a52a8a97d8e19cc, type: 3}
+  <ManualTargetEffect>k__BackingField: {fileID: 0}
+  <OtherEffects>k__BackingField:
+  - TargetMode: {fileID: 11400000, guid: 11c52d9adc7be16478ef32c8e6f7cae3, type: 2}
+    Effect: {fileID: 11400000, guid: a778bbde809fdbe44beea7fd5a423182, type: 2}
